@@ -1,0 +1,10 @@
+C:\Users\Jain Ji\source\repos\Tip Calculator\bin\Debug\Tip Calculator.exe.config
+C:\Users\Jain Ji\source\repos\Tip Calculator\bin\Debug\Tip Calculator.exe
+C:\Users\Jain Ji\source\repos\Tip Calculator\bin\Debug\Tip Calculator.pdb
+C:\Users\Jain Ji\source\repos\Tip Calculator\obj\Debug\Tip Calculator.csproj.AssemblyReference.cache
+C:\Users\Jain Ji\source\repos\Tip Calculator\obj\Debug\Tip_Calculator.Form1.resources
+C:\Users\Jain Ji\source\repos\Tip Calculator\obj\Debug\Tip_Calculator.Properties.Resources.resources
+C:\Users\Jain Ji\source\repos\Tip Calculator\obj\Debug\Tip Calculator.csproj.GenerateResource.cache
+C:\Users\Jain Ji\source\repos\Tip Calculator\obj\Debug\Tip Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Jain Ji\source\repos\Tip Calculator\obj\Debug\Tip Calculator.exe
+C:\Users\Jain Ji\source\repos\Tip Calculator\obj\Debug\Tip Calculator.pdb
